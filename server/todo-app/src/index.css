@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family:'Open Sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(175,159,129,1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:50vh;  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
